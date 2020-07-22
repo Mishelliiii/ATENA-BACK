@@ -1,1 +1,2 @@
-# ATENA-BACK
+# Atenas
+Zenvia Hackathon
